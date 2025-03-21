@@ -82,7 +82,7 @@ We welcome contributions! Feel free to fork the repository, make improvements, a
 
 ## 📞 Contact
 For any queries, suggestions, or collaborations, reach out via:
-- **Email**: [Your Email Here]
+- **Email**: [Your Email Here] dosayasakshi35@gmail.com
 - **GitHub**: [Your GitHub Profile](https://github.com/sakshi0444)
 
 ---
